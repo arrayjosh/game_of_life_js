@@ -1,0 +1,15 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box; }
+
+body {
+  width: 100vw; }
+
+h1 {
+  text-align: center; }
+
+#chunk-game {
+  background-color: black;
+  display: block;
+  margin-left: auto;
+  margin-right: auto; }
